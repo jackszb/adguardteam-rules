@@ -10,7 +10,7 @@ ADBLOCK_SRS = "adblock.srs"
 
 DOWNLOAD_LINKS = [
     "https://raw.githubusercontent.com/jackszb/DnsFilter/main/adguardfilter.json",
-    "https://raw.githubusercontent.com/jackszb/reject-domains/main/adblock_domains.json",
+    "https://raw.githubusercontent.com/jackszb/reject_domain/main/reject-domain.json",
 ]
 
 def download_file(url, save_path):
